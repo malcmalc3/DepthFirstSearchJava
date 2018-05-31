@@ -1,0 +1,12 @@
+8
+R S T U V W X Y
+9
+R V
+R S
+S W
+T W
+T X
+T U
+U Y
+X W
+X Y
